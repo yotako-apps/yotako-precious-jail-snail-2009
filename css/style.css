@@ -1,0 +1,212 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .6499999761581421;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 396px;
+    height: 832px;
+    flex-direction: column
+  }
+  .disclaimerscontainer1row0 {
+    display: flex;
+    margin-left: 149px;
+    margin-top: 50px;
+    width: 196px;
+    height: 21px
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.0625em;
+    margin-left: 0;
+    height: 100%;
+    align-self: stretch
+  }
+  .style11 {
+    background-color: #fff;
+    margin-left: 98px;
+    margin-top: 16px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style13 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: .875em;
+    font-weight: 300;
+    margin-top: 23px;
+    height: 340px;
+    align-self: center
+  }
+  .style13 {
+    margin-top: 18px;
+    height: 331px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .6499999761581421;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 811px;
+    height: 1704px;
+    flex-direction: column
+  }
+  .disclaimerscontainer1row0 {
+    display: flex;
+    margin-left: 305px;
+    margin-top: 102px;
+    width: 401px;
+    height: 43px
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.176em;
+    margin-left: 0;
+    height: 100%;
+    align-self: stretch
+  }
+  .style11 {
+    background-color: #fff;
+    margin-left: 201px;
+    margin-top: 33px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style13 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 1.792em;
+    font-weight: 300;
+    margin-top: 47px;
+    height: 696px;
+    align-self: center
+  }
+  .style13 {
+    margin-top: 37px;
+    height: 678px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .6499999761581421;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 972px;
+    height: 2041px;
+    flex-direction: column
+  }
+  .disclaimerscontainer1row0 {
+    display: flex;
+    margin-left: 366px;
+    margin-top: 123px;
+    width: 481px;
+    height: 52px
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.6066666666666665em;
+    margin-left: 0;
+    height: 100%;
+    align-self: stretch
+  }
+  .style11 {
+    background-color: #fff;
+    margin-left: 240px;
+    margin-top: 39px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style13 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 2.1466666666666665em;
+    font-weight: 300;
+    margin-top: 56px;
+    height: 834px;
+    align-self: center
+  }
+  .style13 {
+    margin-top: 44px;
+    height: 812px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .6499999761581421;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1267px;
+    height: 2662px;
+    flex-direction: column
+  }
+  .disclaimerscontainer1row0 {
+    display: flex;
+    margin-left: 477px;
+    margin-top: 160px;
+    width: 627px;
+    height: 67px
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 3.4000000000000004em;
+    margin-left: 0;
+    height: 100%;
+    align-self: stretch
+  }
+  .style11 {
+    background-color: #fff;
+    margin-left: 314px;
+    margin-top: 51px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style13 {
+    color: #fff;
+    font-family: sfuidisplay,serif;
+    font-size: 2.8000000000000003em;
+    font-weight: 300;
+    margin-top: 74px;
+    height: 1088px;
+    align-self: center
+  }
+  .style13 {
+    margin-top: 58px;
+    height: 1059px
+  }
+}
